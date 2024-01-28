@@ -1,7 +1,5 @@
 👋 Salut, je suis @vq-dsc
-
 ⌨️ Je suis un développeur Javascript
-
 😀 Mon contenu sera essentiellement du remade et peut-être des bots que je ferais comme sa sur des coups de tête
 
 <!--
