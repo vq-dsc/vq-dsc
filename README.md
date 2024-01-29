@@ -2,7 +2,7 @@
 - ⌨️ Je suis un développeur Javascript
 - 😀 Mon contenu sera essentiellement du remade et peut-être des bots que je ferais comme sa sur des coups de tête.
 
-<img src="https://komarev.com/ghpvc/?username=sadekbtw">
+<img src="https://komarev.com/ghpvc/?username=vq-dsc">
 
 <!--
 **vq-dsc/vq-dsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
